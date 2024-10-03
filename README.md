@@ -8,7 +8,7 @@ I'm a passionate software developer with expertise in various technologies. Welc
 
 <div style="display: flex; ">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NathanZlion&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hayk2377&layout=compact&langs_count=8&theme=radical"/>  
+ <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonatan-h&layout=compact&langs_count=8&theme=radical"/>  
 
  </div>
 
